@@ -1,0 +1,30 @@
+main{
+    text-align: center;
+    
+}
+
+body {
+    background-color:pink;
+
+}
+
+h1{
+    color:blueviolet
+}
+
+h2 {
+    color: blueviolet;
+}
+
+.nav-link{
+    color: blueviolet;
+}
+
+.align-h1-h2 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #333;
+  }
+
+
+
